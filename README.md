@@ -1,0 +1,1 @@
+This is an effort to teach one of the algorithms to ML enthusiasts. It is done as a part of assignment for Practical Data Science course (15688) at CMU. It is an individual attempt. To view in nbviewer, check the following link: https://nbviewer.jupyter.org/github/Disha42/RandomForests/blob/master/Random_Forests.ipynb
